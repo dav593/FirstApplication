@@ -5,6 +5,7 @@ package ua.kpi.gorst;
  */
 public class FirstClass {
     public static void main(String[] args) {
+        System.out.println("Sample string");
         System.out.println("First Java Project.");
     }
 }
